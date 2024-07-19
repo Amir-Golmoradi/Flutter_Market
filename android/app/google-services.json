@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442251961201",
+    "project_id": "duni-market-e83ad",
+    "storage_bucket": "duni-market-e83ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442251961201:android:544af9581cdec50d6f8cd0",
+        "android_client_info": {
+          "package_name": "amirgolmoradi.flutter_dunimarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqoz6A9gcxJP2RJN_vxMa98d5u7mXA_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
